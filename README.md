@@ -16,3 +16,8 @@ Amortization--> the idea that we can get a tighter bound on a series of operatio
 If a recursive call starts at most one other, we call this a linear recursion
 eg-->factorial function and good_fibonacci function
 
+If a recursive call starts at most two other, we call this a binary recursion
+eg-->binary sum and bad fibonacci
+
+If a recursive call starts at most three or more, we call this a multiple recursion
+eg-->file System or sumation puzzles
