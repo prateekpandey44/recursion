@@ -13,3 +13,6 @@ Disk space calculation time is O(n)
 
 Amortization--> the idea that we can get a tighter bound on a series of operations by considering the cumulative effect,rather than assuming that each achives the worst case.eg-->file System
 
+If a recursive call starts at most one other, we call this a linear recursion
+eg-->factorial function and good_fibonacci function
+
